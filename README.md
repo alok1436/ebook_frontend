@@ -6,7 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run first:
 
-### `npm install`
+### `npm install`\
+### `npm install --legacy-peer-deps`
 
 To start the server, you can run
 
